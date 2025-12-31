@@ -1,2 +1,11 @@
-# Projects
-This repository contains basic Arduino and C++ code developed for my personal and university projects. The code focuses on fundamental concepts such as sensor integration, actuator control, and system logic, and was used to support hands-on prototyping and testing.
+Overview
+This repository contains code written to support my personal and university projects
+
+Languages & Tools
+- Python
+- Arduino
+- C++
+- Sensors (IMU, ultrasonic, etc.)
+
+Purpose
+The code was developed to interface with hardware components, test system behaviour, and support iterative prototyping.
